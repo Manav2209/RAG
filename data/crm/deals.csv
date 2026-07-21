@@ -1,0 +1,3 @@
+deal_id,company_id,company_name,deal_name,stage,amount,close_date
+CRM-DL-001,CRM-CO-001,Acme Medical Devices,2025 Brand Refresh,won,85000.00,2025-01-05
+CRM-DL-002,CRM-CO-001,Acme Medical Devices,PulseGuard Campaign Extension,proposal,40000.00,

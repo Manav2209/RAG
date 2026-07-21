@@ -1,0 +1,10 @@
+companies:
+  company_acme_medical:
+    canonical_name: Acme Medical
+    aliases:
+      - Acme Medical
+      - ACME MED LLC
+  company_northstar_ortho:
+    canonical_name: Northstar Ortho
+    aliases:
+      - Northstar Ortho

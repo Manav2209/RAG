@@ -1,15 +1,6 @@
-# rag-nas
+ RAG_NAS
 
-To install dependencies:
+ Create an RAG pipelie for an AGENCY where it takes data from multiple sources such as CRM , Quickbooks and internal documents 
+ and give the answer to question 
 
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.2.8. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+ 

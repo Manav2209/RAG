@@ -1,0 +1,9 @@
+invoice_id,customer_id,customer_name,issue_date,due_date,amount,status,service_line
+INV-1001,CUST-001,ACME MED LLC,2025-01-15,2025-02-14,10000.00,paid,Brand Strategy
+INV-1002,CUST-001,ACME MED LLC,2025-03-10,2025-04-09,15000.00,paid,Brand Strategy
+INV-1003,CUST-001,ACME MED LLC,2025-05-20,2025-06-19,12000.00,paid,Brand Strategy
+INV-1004,CUST-001,ACME MED LLC,2025-07-15,2025-08-14,23000.00,paid,Brand Strategy
+INV-1005,CUST-001,ACME MED LLC,2025-10-01,2025-10-31,15000.00,open,Brand Strategy
+INV-1006,CUST-001,ACME MED LLC,2026-01-10,2026-02-09,10000.00,open,Brand Strategy
+INV-1007,CUST-002,Northstar Ortho,2024-06-10,2024-07-10,18000.00,paid,Website Strategy
+INV-1008,CUST-002,Northstar Ortho,2024-09-05,2024-10-05,9500.00,paid,Website Strategy

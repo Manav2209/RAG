@@ -3,8 +3,16 @@
   "module": "index.ts",
   "type": "module",
   "private": true,
+  "scripts":{
+    "data-genr":"bun run ./src/data-generation/generate.ts"
+  },
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "@types/pdfkit": "^0.17.6",
+    "docx": "^9.7.1",
+    "pdfkit": "^0.19.1",
+    "pptxgenjs": "^4.0.1",
+    "yaml": "^2.9.0"
   },
   "peerDependencies": {
     "typescript": "^5"
